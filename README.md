@@ -23,7 +23,7 @@
 对部署时需设定的变量名称做如下说明。
 
 | 变量 | 默认值 | 说明 |
-| :--- | :--- | :--- |
+| :--- | :---- | :--- |
 | `ID` | `asic.buzz-b0fbb611-aa91-48a7-b667-8d67b8174bbb`            | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
 | `WSPATH` | `/asic.buzz-b0fbb611-aa91-48a7-b667-8d67b8174bbb` | WebSocket 所使用的 HTTP 协议路径 |
 
